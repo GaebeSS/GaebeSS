@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  Sobre o GaebeSS (Gab)</h3>
+<h2 align="left">👩‍💻  Sobre o GaebeSS (Gab)</h2>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h3 align="left">🛠 Linguagens e Ferramentas</h3>
+<h2 align="left">🛠 Linguagens e Ferramentas</h2>
 
 ###
 
@@ -32,7 +32,7 @@
 
 ###
 
-<h3 align="left">🎶 Musicas tocadas recentemente:</h3>
+<h2 align="left">🎶 Musicas tocadas recentemente:</h2>
 
 ###
 
@@ -40,6 +40,16 @@
   <a href="https://open.spotify.com/user/314k6iajwp6kq3bgz2esv6gya3su">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=314k6iajwp6kq3bgz2esv6gya3su&count=5&unique=false" alt="Spotify recently played"  />
   </a>
+</div>
+
+###
+
+<h2 align="left">👨‍💻 Linguagens que mais uso nos projetos:</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GaebeSS&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="170" alt="languages graph"  />
 </div>
 
 ###
